@@ -1,0 +1,9 @@
+{
+  "icon": "img/konnectors-icon.png",
+  "name": "konnectors",
+  "displayName": "Konnectors",
+  "slug": "konnectors",
+  "git": "https://github.com/frankrousseau/konnectors.git",
+  "comment": "community contribution",
+  "description": "Import data from external services (Twitter, Jawbone...)"
+}

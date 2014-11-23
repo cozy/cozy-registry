@@ -1,0 +1,9 @@
+{
+  "icon": "img/nirc-icon.png",
+  "name": "nirc",
+  "displayName": "nIRC",
+  "slug": "nirc",
+  "git": "https://github.com/frankrousseau/cozy-nirc.git",
+  "comment": "community contribution",
+  "description": "Access to your favorite IRC channel from your Cozy"
+}

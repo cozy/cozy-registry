@@ -1,0 +1,9 @@
+{
+  "icon": "img/calendar-icon.png",
+  "name": "calendar",
+  "displayName": "Calendar",
+  "slug": "calendar",
+  "git": "https://github.com/cozy/cozy-calendar.git",
+  "comment": "official application",
+  "description": "Set up reminders and let cozy be your assistant"
+}

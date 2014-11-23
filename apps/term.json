@@ -1,0 +1,9 @@
+{
+  "icon": "img/term-icon.png",
+  "name": "term",
+  "displayName": "Term",
+  "slug": "term",
+  "git": "https://github.com/alpha14/cozy-term.git",
+  "comment": "community contribution",
+  "description": "A terminal for your cozy."
+}

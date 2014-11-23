@@ -1,0 +1,9 @@
+{
+  "icon": "img/todos-icon.png",
+  "name": "todos",
+  "displayName": "Todos",
+  "slug": "todos",
+  "git": "https://github.com/cozy/todos.git",
+  "comment": "community contribution",
+  "description": "Write your tasks, order them and execute them efficiently."
+}

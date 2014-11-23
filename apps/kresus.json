@@ -1,0 +1,9 @@
+{
+  "icon": "img/kresus-icon.png",
+  "name": "kresus",
+  "displayName": "Kresus",
+  "slug": "kresus",
+  "git": "https://github.com/bnjbvr/kresus.git",
+  "comment": "community contribution",
+  "description": "Kresus' Personal Finance Manager."
+}

@@ -1,0 +1,9 @@
+{
+  "icon": "img/notes-icon.png",
+  "name": "notes",
+  "displayName": "Note",
+  "slug": "notes",
+  "git": "https://github.com/cozy/notes.git",
+  "comment": "community contribution",
+  "description": "Organize and write smart notes."
+}

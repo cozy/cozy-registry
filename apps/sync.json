@@ -1,0 +1,9 @@
+{
+  "icon": "img/sync-icon.png",
+  "name": "sync",
+  "displayName": "Sync",
+  "slug": "sync",
+  "git": "https://github.com/cozy/cozy-sync.git",
+  "comment": "official application",
+  "description": "Synchronize your contacts and your agenda with Cozy"
+}

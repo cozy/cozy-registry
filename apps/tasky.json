@@ -1,0 +1,9 @@
+{
+  "icon": "img/tasky-icon.png",
+  "name": "tasky",
+  "displayName": "Tasky",
+  "slug": "tasky",
+  "git": "https://github.com/jsilvestre/tasky.git",
+  "comment": "community contribution",
+  "description": "Super fast and simple tag-based task manager."
+}
