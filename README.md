@@ -1,9 +1,10 @@
 [Cozy](http://cozy.io) Registry
 =============
 
-Soon all Cozy will list the available application list from this repository. If
-you want to add your own application to the Cozy App Store, just make a PR to
-this repository. About the format, just, follow the existing ones.
+Soon all Cozy running instances will display the list of available application
+on the Cozy Store by fetching data from this repository. If you want to add
+your own application to the Cozy App Store, just make a PR to this repository.
+About the format, just, follow the existing ones.
 
 
 ## What is Cozy?
