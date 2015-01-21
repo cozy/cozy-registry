@@ -5,5 +5,5 @@
   "slug": "remotestorage",
   "git": "https://github.com/aenario/cozy-remotestorage.git",
   "comment": "community contribution",
-  "description": "A Remote Storage appliance to store data from your Unhosted applications."
+  "description": "remote storage description"
 }

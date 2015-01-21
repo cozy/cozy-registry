@@ -1,9 +1,9 @@
 {
-  "icon": "img/owm.png",
+  "icon": "img/apps/owm.svg",
   "name": "owm",
   "displayName": "OWM",
   "slug": "owm",
   "git": "https://github.com/Piour/piour-cozy-owm.git",
   "comment": "community contribution",
-  "description": "What is the weather like in your city? Check it out within your Cozy!"
+  "description": "own description"
 }

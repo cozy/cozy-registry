@@ -1,9 +1,10 @@
 {
-  "icon": "img/tasky-icon.png",
+  "icon": "img/apps/tasky.svg",
   "name": "tasky",
   "displayName": "Tasky",
   "slug": "tasky",
   "git": "https://github.com/jsilvestre/tasky.git",
   "comment": "community contribution",
-  "description": "Super fast and simple tag-based task manager."
+  "description": "tasky description",
+  "color": "#1bda4c"
 }

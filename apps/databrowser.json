@@ -1,9 +1,9 @@
 {
-  "icon": "img/databrowser-icon.png",
+  "icon": "img/apps/databrowser.svg",
   "name": "databrowser",
   "displayName": "Data Browser",
   "slug": "databrowser",
   "git": "https://github.com/n-a-n/cozy-databrowser.git",
   "comment": "community contribution",
-  "description": "Browse and visualize all your data."
+  "description": "databrowser description"
 }

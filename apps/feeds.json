@@ -1,9 +1,9 @@
 {
-  "icon": "img/feeds-icon.png",
+  "icon": "img/apps/feeds.svg",
   "name": "feeds",
   "displayName": "Feeds",
   "slug": "feeds",
   "git": "https://github.com/Piour/cozy-feeds.git",
   "comment": "community contribution",
-  "description": "Aggregate your feeds and save your favorite links in bookmarks."
+  "description": "feeds description"
 }

@@ -1,9 +1,9 @@
 {
-  "icon": "img/pfm.png",
+  "icon": "img/apps/pfm.svg",
   "name": "mes comptes",
   "displayName": "Mes Comptes",
   "slug": "pfm",
   "git": "https://github.com/seeker89/cozy-pfm.git",
   "comment": "community contribution",
-  "description": "Suivez vos comptes banquaires sans avoir à vous relogger à chaque fois."
+  "description": "pfm description"
 }
