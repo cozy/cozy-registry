@@ -1,0 +1,9 @@
+{
+    "icon": "img/apps/emails.svg",
+    "name": "emails",
+    "displayName": "Emails",
+    "slug": "emails",
+    "git": "https://github.com/cozy/cozy-emails.git",
+    "comment": "official application",
+    "description": "emails description"
+}

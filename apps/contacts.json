@@ -1,9 +1,9 @@
 {
-  "icon": "img/contacts-icon.png",
+  "icon": "img/apps/contacts.svg",
   "name": "contacts",
   "displayName": "Contacts",
   "slug": "contacts",
   "git": "https://github.com/cozy/cozy-contacts.git",
   "comment": "official application",
-  "description": "Manage your contacts with custom informations"
+  "description": "contacts description"
 }

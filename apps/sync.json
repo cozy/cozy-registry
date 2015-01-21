@@ -5,5 +5,5 @@
   "slug": "sync",
   "git": "https://github.com/cozy/cozy-sync.git",
   "comment": "official application",
-  "description": "Synchronize your contacts and your agenda with Cozy"
+  "description": "sync description"
 }

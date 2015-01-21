@@ -1,9 +1,9 @@
 {
-  "icon": "img/cozy-music.png",
+  "icon": "img/apps/cozic.svg",
   "name": "cozic",
   "displayName": "Cozic",
   "slug": "cozic",
   "git": "https://github.com/rdubigny/cozy-music.git",
   "comment": "community contribution",
-  "description": "An audio player to always keep your music with you"
+  "description": "cozic description"
 }

@@ -1,9 +1,9 @@
 {
-  "icon": "img/bookmarks-icon.png",
+  "icon": "img/apps/bookmarks.svg",
   "name": "bookmarks",
   "displayName": "Bookmarks",
   "slug": "bookmarks",
   "git": "https://github.com/Piour/cozy-bookmarks.git",
   "comment": "community contribution",
-  "description": "Manage your bookmarks easily"
+  "description": "bookmarks description"
 }

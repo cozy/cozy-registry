@@ -1,9 +1,9 @@
 {
-  "icon": "img/files-icon.png",
+  "icon": "img/apps/files.svg",
   "name": "files",
   "displayName": "Files",
   "slug": "files",
   "git": "https://github.com/cozy/cozy-files.git",
   "comment": "official application",
-  "description": "Your online filesystem."
+  "description": "files description"
 }

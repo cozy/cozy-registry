@@ -1,10 +1,10 @@
 {
-  "icon": "img/kyou.png",
+  "icon": "img/apps/kyou.svg",
   "name": "kyou",
   "displayName": "KYou",
   "slug": "kyou",
   "git": "https://github.com/frankrousseau/kyou.git",
   "comment": "community contribution",
-  "description": "Improve your hapiness and your health by quantifying you.",
+  "description": "kyou description",
   "website": "http://frankrousseau.github.io/kyou"
 }
