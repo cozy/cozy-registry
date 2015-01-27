@@ -1,5 +1,5 @@
 {
-  "icon": "img/remotestorage-icon.png",
+  "icon": "img/apps/remote_storage.svg",
   "name": "remotestorage",
   "displayName": "Remote Storage",
   "slug": "remotestorage",
