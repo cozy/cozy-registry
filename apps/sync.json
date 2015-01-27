@@ -1,5 +1,5 @@
 {
-  "icon": "img/sync-icon.png",
+  "icon": "img/apps/sync.svg",
   "name": "sync",
   "displayName": "Sync",
   "slug": "sync",
