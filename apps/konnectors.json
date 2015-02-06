@@ -5,5 +5,6 @@
   "slug": "konnectors",
   "git": "https://github.com/frankrousseau/konnectors.git",
   "comment": "community contribution",
-  "description": "konnectors description"
+  "description": "konnectors description",
+  "color": "#e26987"
 }
