@@ -1,9 +1,0 @@
-{
-  "icon": "img/apps/pfm.svg",
-  "name": "mes comptes",
-  "displayName": "Mes Comptes",
-  "slug": "pfm",
-  "git": "https://github.com/seeker89/cozy-pfm.git",
-  "comment": "community contribution",
-  "description": "pfm description"
-}
