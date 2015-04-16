@@ -3,7 +3,7 @@
   "name": "konnectors",
   "displayName": "Konnectors",
   "slug": "konnectors",
-  "git": "https://github.com/frankrousseau/konnectors.git",
+  "git": "https://github.com/cozy-labs/konnectors.git",
   "comment": "community contribution",
   "description": "konnectors description",
   "color": "#e26987"
