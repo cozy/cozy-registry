@@ -2,7 +2,7 @@
   "icon": "img/apps/ghost.svg",
   "name": "blog",
   "displayName": "Blog (Ghost Platform)",
-  "slug": "ghost",
+  "slug": "blog",
   "git": "https://github.com/cozy-labs/cozy-ghost.git",
   "comment": "community contribution",
   "description": "ghost description"
