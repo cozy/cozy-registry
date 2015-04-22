@@ -1,7 +1,7 @@
 {
   "icon": "img/apps/ghost.svg",
-  "name": "ghost",
-  "displayName": "Ghost",
+  "name": "blog",
+  "displayName": "Blog (Ghost Platform)",
   "slug": "ghost",
   "git": "https://github.com/cozy-labs/cozy-ghost.git",
   "comment": "community contribution",
