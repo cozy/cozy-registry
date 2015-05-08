@@ -1,8 +1,8 @@
 {
   "icon": "img/apps/leave_google.svg",
-  "name": "leavegoogle",
+  "name": "leave-google",
   "displayName": "Leave Google",
-  "slug": "leavegoogle",
+  "slug": "leave-google",
   "git": "https://github.com/cozy-labs/leave-google.git",
   "comment": "community contribution",
   "description": "leave google description"
