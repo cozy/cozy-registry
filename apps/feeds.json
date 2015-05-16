@@ -1,9 +1,0 @@
-{
-  "icon": "img/apps/feeds.svg",
-  "name": "feeds",
-  "displayName": "Feeds",
-  "slug": "feeds",
-  "git": "https://github.com/Piour/cozy-feeds.git",
-  "comment": "community contribution",
-  "description": "feeds description"
-}
