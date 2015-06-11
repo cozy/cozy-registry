@@ -1,0 +1,9 @@
+{
+  "icon": "img/apps/feeds.svg",
+  "name": "zero-feeds",
+  "displayName": "Zero-Feeds",
+  "slug": "zero-feeds",
+  "git": "https://github.com/pierrerousseau/zero-feeds.git",
+  "comment": "community contribution",
+  "description": "zero-feeds description"
+}

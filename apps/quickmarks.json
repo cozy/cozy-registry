@@ -1,0 +1,9 @@
+{
+  "icon": "img/apps/bookmarks.svg",
+  "name": "quickmarks",
+  "displayName": "Quickmarks",
+  "slug": "quickmarks",
+  "git": "https://github.com/pierrerousseau/quickmarks.git",
+  "comment": "community contribution",
+  "description": "quickmarks description"
+}
