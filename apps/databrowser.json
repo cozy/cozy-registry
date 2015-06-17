@@ -3,7 +3,7 @@
   "name": "databrowser",
   "displayName": "Data Browser",
   "slug": "databrowser",
-  "git": "https://github.com/n-a-n/cozy-databrowser.git",
+  "git": "https://github.com/doubleface/cozy-databrowser.git",
   "comment": "community contribution",
   "description": "databrowser description"
 }
