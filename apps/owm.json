@@ -2,8 +2,8 @@
   "icon": "img/apps/owm.svg",
   "name": "owm",
   "displayName": "Weather",
-  "slug": "piour-owm",
-  "git": "https://github.com/Piour/piour-cozy-owm.git",
+  "slug": "pr-owm",
+  "git": "https://github.com/pierrerousseau/owm.git",
   "comment": "community contribution",
   "description": "owm description"
 }
