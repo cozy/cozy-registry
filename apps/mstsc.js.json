@@ -3,7 +3,7 @@
   "name": "mstsc.js",
   "displayName": "Mstsc.js",
   "slug": "mstsc.js",
-  "git": "https://github.com/citronneur/mstsc.js",
+  "git": "https://github.com/citronneur/mstsc.js.git",
   "comment": "community contribution",
   "description": "mstsc.js description"
 }
