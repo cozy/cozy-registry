@@ -1,9 +1,9 @@
 {
-  "icon": "apps/mstsc.js/img/mstsc.js.svg",
+  "icon": "img/apps/mstsc.js.svg",
   "name": "mstsc.js",
   "displayName": "Mstsc.js",
   "slug": "mstsc.js",
   "git": "https://github.com/citronneur/mstsc.js",
   "comment": "community contribution",
-  "description": "A remote desktop client. Access all your desktop from Cozy-Cloud."
+  "description": "mstsc.js description"
 }
