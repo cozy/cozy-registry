@@ -1,8 +1,8 @@
 {
   "icon": "img/apps/mstsc.svg",
-  "name": "mstsc.js",
-  "displayName": "Mstsc.js",
-  "slug": "mstsc.js",
+  "name": "mstsc",
+  "displayName": "Mstsc",
+  "slug": "mstsc",
   "git": "https://github.com/citronneur/mstsc.js.git",
   "comment": "community contribution",
   "description": "mstsc.js description"
