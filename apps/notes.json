@@ -1,7 +1,7 @@
 {
   "icon": "img/apps/notes.svg",
   "name": "notes",
-  "displayName": "Note",
+  "displayName": "Notes",
   "slug": "notes",
   "git": "https://github.com/cozy/notes.git",
   "comment": "community contribution",
