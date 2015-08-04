@@ -1,0 +1,9 @@
+{
+  "icon": "img/apps/haste.svg",
+  "name": "hastebin",
+  "displayName": "HasteBin",
+  "slug": "hastebin",
+  "git": "https://github.com/clochix/haste-server.git",
+  "comment": "community contribution",
+  "description": "hastebin description"
+}
