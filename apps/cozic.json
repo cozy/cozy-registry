@@ -5,5 +5,6 @@
   "slug": "cozic",
   "git": "https://github.com/rdubigny/cozy-music.git",
   "comment": "community contribution",
-  "description": "cozic description"
+  "description": "cozic description",
+  "beta": true
 }
