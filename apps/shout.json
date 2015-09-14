@@ -1,0 +1,9 @@
+{
+  "icon": "img/apps/nirc.svg",
+  "name": "shout",
+  "displayName": "Shout IRC",
+  "slug": "shout",
+  "git": "https://github.com/Kloadut/shout.git",
+  "comment": "community contribution",
+  "description": "A cool IRC web client"
+}
