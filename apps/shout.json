@@ -4,6 +4,7 @@
   "displayName": "Shout IRC",
   "slug": "shout",
   "git": "https://github.com/Kloadut/shout.git",
+  "branch": "cozy",
   "comment": "community contribution",
   "description": "shout description"
 }
