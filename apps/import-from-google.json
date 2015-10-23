@@ -1,0 +1,9 @@
+{
+  "icon": "img/apps/leave-google.svg",
+  "name": "import-from-google",
+  "displayName": "Import from Google",
+  "slug": "import-from-google",
+  "git": "https://github.com/cozy-labs/import-from-google.git",
+  "comment": "official application",
+  "description": "leave google description"
+}
