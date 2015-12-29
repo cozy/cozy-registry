@@ -5,5 +5,9 @@
   "slug": "databrowser",
   "git": "https://github.com/doubleface/cozy-databrowser.git",
   "comment": "community contribution",
-  "description": "databrowser description"
+  "description": "databrowser description",
+  "author": {
+    "name": "Christophe",
+    "url": "https://github.com/doubleface"
+  }
 }

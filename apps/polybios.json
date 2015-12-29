@@ -5,5 +5,9 @@
   "slug": "polybios",
   "git": "https://github.com/clochix/polybios.git",
   "comment": "community contribution",
-  "description": "polybios description"
+  "description": "polybios description",
+  "author": {
+    "name": "Clochix",
+    "url": "https://github.com/clochix"
+  }
 }

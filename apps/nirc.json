@@ -5,5 +5,9 @@
   "slug": "nirc",
   "git": "https://github.com/frankrousseau/cozy-nirc.git",
   "comment": "community contribution",
-  "description": "nirc description"
+  "description": "nirc description",
+  "author": {
+    "name": "Cody",
+    "url": "https://github.com/cjstewart88"
+  }
 }

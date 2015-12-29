@@ -5,5 +5,9 @@
   "slug": "import-from-google",
   "git": "https://github.com/cozy-labs/import-from-google.git",
   "comment": "official application",
-  "description": "leave google description"
+  "description": "leave google description",
+  "author": {
+    "name": "Cozy Labs",
+    "url": "https://github.com/cozy-labs"
+  }
 }

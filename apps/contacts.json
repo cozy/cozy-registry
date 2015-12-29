@@ -5,5 +5,9 @@
   "slug": "contacts",
   "git": "https://github.com/cozy/cozy-contacts.git",
   "comment": "official application",
-  "description": "contacts description"
+  "description": "contacts description",
+  "author": {
+    "name": "Cozy",
+    "url": "https://github.com/cozy"
+  }
 }

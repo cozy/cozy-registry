@@ -6,5 +6,9 @@
   "git": "https://github.com/cozy-labs/konnectors.git",
   "comment": "community contribution",
   "description": "konnectors description",
-  "color": "#e26987"
+  "color": "#e26987",
+  "author": {
+    "name": "Cozy Labs",
+    "url": "https://github.com/cozy-labs"
+  }
 }

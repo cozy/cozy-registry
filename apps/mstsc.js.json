@@ -5,5 +5,9 @@
   "slug": "mstsc",
   "git": "https://github.com/citronneur/mstsc.js.git",
   "comment": "community contribution",
-  "description": "mstsc.js description"
+  "description": "mstsc.js description",
+  "author": {
+    "name": "Sylvain",
+    "url": "https://github.com/citronneur"
+  }
 }

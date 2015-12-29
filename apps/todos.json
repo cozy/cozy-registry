@@ -5,5 +5,9 @@
   "slug": "todos",
   "git": "https://github.com/cozy/todos.git",
   "comment": "community contribution",
-  "description": "todos description"
+  "description": "todos description",
+  "author": {
+    "name": "Cozy Labs",
+    "url": "https://github.com/cozy-labs"
+  }
 }

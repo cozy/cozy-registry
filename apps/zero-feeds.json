@@ -5,5 +5,9 @@
   "slug": "zero-feeds",
   "git": "https://github.com/pierrerousseau/zero-feeds.git",
   "comment": "community contribution",
-  "description": "zero-feeds description"
+  "description": "zero-feeds description",
+  "author": {
+    "name": "Pierre",
+    "url": "https://github.com/pierrerousseau"
+  }
 }

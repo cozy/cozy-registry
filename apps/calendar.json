@@ -5,5 +5,9 @@
   "slug": "calendar",
   "git": "https://github.com/cozy/cozy-calendar.git",
   "comment": "official application",
-  "description": "calendars description"
+  "description": "calendars description",
+  "author": {
+    "name": "Cozy",
+    "url": "https://github.com/cozy"
+  }
 }

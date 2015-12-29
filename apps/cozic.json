@@ -6,5 +6,9 @@
   "git": "https://github.com/rdubigny/cozy-music.git",
   "comment": "community contribution",
   "description": "cozic description",
-  "beta": true
+  "beta": true,
+  "author": {
+    "name": "Raphaël",
+    "url": "https://github.com/rdubigny"
+  }
 }

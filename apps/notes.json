@@ -5,5 +5,9 @@
   "slug": "notes",
   "git": "https://github.com/cozy/notes.git",
   "comment": "community contribution",
-  "description": "notes description"
+  "description": "notes description",
+  "author": {
+    "name": "Cozy Labs",
+    "url": "https://github.com/cozy-labs"
+  }
 }

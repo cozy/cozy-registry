@@ -5,5 +5,9 @@
   "slug": "files",
   "git": "https://github.com/cozy/cozy-files.git",
   "comment": "official application",
-  "description": "files description"
+  "description": "files description",
+  "author": {
+    "name": "Cozy",
+    "url": "https://github.com/cozy"
+  }
 }

@@ -5,5 +5,9 @@
   "slug": "blog",
   "git": "https://github.com/cozy-labs/cozy-ghost.git",
   "comment": "community contribution",
-  "description": "ghost description"
+  "description": "ghost description",
+  "author": {
+    "name": "Ghost",
+    "url": "https://github.com/tryghost"
+  }
 }

@@ -6,5 +6,9 @@
   "git": "https://github.com/frankrousseau/kyou.git",
   "comment": "community contribution",
   "description": "kyou description",
-  "website": "http://frankrousseau.github.io/kyou"
+  "website": "http://frankrousseau.github.io/kyou",
+  "author": {
+    "name": "Frank",
+    "url": "https://github.com/frankrousseau"
+  }
 }

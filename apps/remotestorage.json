@@ -5,5 +5,9 @@
   "slug": "remotestorage",
   "git": "https://github.com/aenario/cozy-remotestorage.git",
   "comment": "community contribution",
-  "description": "remote storage description"
+  "description": "remote storage description",
+  "author": {
+    "name": "Romain",
+    "url": "https://github.com/aenario"
+  }
 }

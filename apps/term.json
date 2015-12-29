@@ -5,5 +5,9 @@
   "slug": "term",
   "git": "https://github.com/alpha14/cozy-term.git",
   "comment": "community contribution",
-  "description": "term description"
+  "description": "term description",
+  "author": {
+    "name": "Alexandre",
+    "url": "https://github.com/alpha14"
+  }
 }

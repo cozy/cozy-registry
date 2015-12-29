@@ -5,5 +5,9 @@
   "slug": "quickmarks",
   "git": "https://github.com/pierrerousseau/quickmarks.git",
   "comment": "community contribution",
-  "description": "quickmarks description"
+  "description": "quickmarks description",
+  "author": {
+    "name": "Pierre",
+    "url": "https://github.com/pierrerousseau"
+  }
 }

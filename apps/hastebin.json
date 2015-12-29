@@ -5,5 +5,9 @@
   "slug": "hastebin",
   "git": "https://github.com/clochix/haste-server.git",
   "comment": "community contribution",
-  "description": "hastebin description"
+  "description": "hastebin description",
+  "author": {
+    "name": "Clochix",
+    "url": "https://github.com/clochix"
+  }
 }

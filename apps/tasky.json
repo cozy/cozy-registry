@@ -6,5 +6,9 @@
   "git": "https://github.com/jsilvestre/tasky.git",
   "comment": "community contribution",
   "description": "tasky description",
-  "color": "#3BDA6C"
+  "color": "#3BDA6C",
+  "author": {
+    "name": "Joseph",
+    "url": "https://github.com/jsilvestre"
+  }
 }
