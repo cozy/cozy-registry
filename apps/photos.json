@@ -4,7 +4,7 @@
   "displayName": "Photos",
   "slug": "photos",
   "git": "https://github.com/cozy/cozy-photos.git",
-  "comment": "community application",
+  "comment": "community contribution",
   "description": "photos description",
   "author": {
     "name": "Cozy Labs",
