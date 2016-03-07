@@ -1,0 +1,14 @@
+{
+  "icon": "img/apps/thelounge.svg",
+  "name": "thelounge",
+  "displayName": "The Lounge",
+  "slug": "thelounge",
+  "git": "https://github.com/y-lohse/cozy-thelounge.git",
+  "branch": "master",
+  "comment": "community contribution",
+  "description": "The self-hosted Web IRC client",
+  "author": {
+    "name": "The Lounge",
+    "url": "https://github.com/thelounge"
+  }
+}
