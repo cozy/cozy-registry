@@ -1,0 +1,13 @@
+{
+  "icon": "img/apps/frost.svg",
+  "name": "frost",
+  "displayName": "Frost",
+  "slug": "frost",
+  "git": "https://github.com/y-lohse/cozy-frost.git",
+  "comment": "community contribution",
+  "description": "frost description",
+  "author": {
+    "name": "Yannick Lohse",
+    "url": "https://github.com/y-lohse"
+  }
+}
