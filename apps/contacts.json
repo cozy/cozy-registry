@@ -6,6 +6,7 @@
   "git": "https://github.com/cozy/cozy-contacts.git",
   "comment": "official application",
   "description": "contacts description",
+  "package": "cozy-contacts",
   "author": {
     "name": "Cozy",
     "url": "https://github.com/cozy"
