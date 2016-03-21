@@ -2,7 +2,6 @@
   "icon": "img/apps/kyou.svg",
   "name": "kyou",
   "displayName": "KYou",
-  "package": "cozy-kyou",
   "slug": "kyou",
   "git": "https://github.com/frankrousseau/kyou.git",
   "comment": "community contribution",
