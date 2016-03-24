@@ -6,6 +6,7 @@
   "git": "https://github.com/cozy/cozy-calendar.git",
   "comment": "official application",
   "description": "calendars description",
+  "package": "cozy-calendar",
   "author": {
     "name": "Cozy",
     "url": "https://github.com/cozy"
