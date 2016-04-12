@@ -1,0 +1,13 @@
+{
+  "icon": "img/apps/tiddlywiki.svg",
+  "name": "tiddlywiki",
+  "displayName": "Tiddlywiki",
+  "slug": "term",
+  "git": "https://github.com/frankrousseau/TiddlyWiki",
+  "comment": "community contribution",
+  "description": "term description",
+  "author": {
+    "name": "Jeremy Ruston",
+    "url": "https://github.com/Jermolene"
+  }
+}
