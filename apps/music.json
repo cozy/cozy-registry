@@ -3,6 +3,7 @@
   "name": "music",
   "displayName": "Music",
   "slug": "music",
+  "package": "cozy-music",
   "git": "https://github.com/cozy-labs/cozy-music",
   "comment": "community contribution",
   "description": "music description",
