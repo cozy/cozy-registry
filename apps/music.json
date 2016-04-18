@@ -1,0 +1,13 @@
+{
+  "icon": "img/apps/music.svg",
+  "name": "music",
+  "displayName": "Music",
+  "slug": "music",
+  "git": "https://github.com/cozy-labs/cozy-music",
+  "comment": "community contribution",
+  "description": "music description",
+  "author": {
+    "name": "Ronan",
+    "url": "https://github.com/flyingrub"
+  }
+}
