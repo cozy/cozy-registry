@@ -2,7 +2,7 @@
   "icon": "img/apps/tiddlywiki.svg",
   "name": "tiddlywiki",
   "displayName": "Tiddlywiki",
-  "slug": "term",
+  "slug": "tiddlywiki",
   "git": "https://github.com/frankrousseau/TiddlyWiki",
   "comment": "community contribution",
   "description": "tiddlywiki description",
