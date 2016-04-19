@@ -1,6 +1,6 @@
 {
   "icon": "img/apps/music.svg",
-  "name": "music",
+  "name": "cozy-music",
   "displayName": "Music",
   "slug": "music",
   "package": "cozy-music",
