@@ -3,7 +3,7 @@
   "name": "tiddlywiki",
   "displayName": "Tiddlywiki",
   "slug": "tiddlywiki",
-  "git": "https://github.com/frankrousseau/TiddlyWiki",
+  "git": "https://github.com/frankrousseau/TiddlyWiki.git",
   "comment": "community contribution",
   "description": "tiddlywiki description",
   "author": {
