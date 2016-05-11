@@ -6,7 +6,7 @@
   "git": "https://github.com/RobyRemzy/cozy-map.git",
   "branch": "master",
   "comment": "community contribution",
-  "description": "Leaflet map suited for a Cozy Platform.",
+  "description": "map description",
   "package": "cozy-map",
   "author": {
     "name": "Remi Roubin",
