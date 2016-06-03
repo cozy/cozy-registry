@@ -1,0 +1,12 @@
+{
+  "name": "Downloader",
+  "displayName": "Downloader",
+  "slug": "downloader",
+  "git": "https://github.com/SomeAverageDev/cozy-downloader.git",
+  "comment": "community contribution",
+  "description": "downloader description",
+  "author": {
+    "name": "SomeAverageDev",
+    "url": "https://github.com/SomeAverageDev"
+  }
+}
