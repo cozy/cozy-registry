@@ -2,6 +2,7 @@
   "name": "Downloader",
   "displayName": "Downloader",
   "slug": "downloader",
+  "icon": "img/apps/downloader.svg",
   "git": "https://github.com/SomeAverageDev/cozy-downloader.git",
   "comment": "community contribution",
   "description": "downloader description",
