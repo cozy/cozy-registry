@@ -21,9 +21,9 @@ describe('Ensure all files integrity', () => {
       assert.isDefined(appInfos.name,
                        `Name field is missing for: ${fileName}`);
       assert.isDefined(appInfos.slug,
-                       `Slug field iis missing for: ${fileName}`);
+                       `Slug field is missing for: ${fileName}`);
       assert.isDefined(appInfos.icon,
-                       `Icon field iis missing for: ${fileName}`);
+                       `Icon field is missing for: ${fileName}`);
     });
   });
 });
