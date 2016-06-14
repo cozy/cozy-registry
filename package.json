@@ -1,0 +1,28 @@
+{
+  "name": "cozy-registry",
+  "version": "1.0.0",
+  "description": "List of applications available on Cozy",
+  "main": "test.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cozy/cozy-registry.git"
+  },
+  "keywords": [
+    "registry",
+    "apps",
+    "cozy"
+  ],
+  "author": "Cozy Cloud <frank@cozycloud.cc> (https://cozycloud.cc/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cozy/cozy-registry/issues"
+  },
+  "homepage": "https://github.com/cozy/cozy-registry#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.5.3"
+  }
+}
