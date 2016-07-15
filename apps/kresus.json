@@ -3,11 +3,13 @@
   "name": "kresus",
   "displayName": "Kresus",
   "slug": "kresus",
-  "git": "https://github.com/bnjbvr/kresus.git",
+  "git": "https://framagit.org/bnjbvr/kresus.git",
   "comment": "community contribution",
   "description": "kresus description",
+  "website": "https://blog.benj.me/tag/kresus.html",
+  "package": "kresus",
   "author": {
     "name": "Benjamin",
-    "url": "https://github.com/bnjbvr"
+    "url": "https://benj.me"
   }
 }
