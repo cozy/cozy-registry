@@ -1,13 +1,13 @@
 {
-  "icon": "img/apps/konnectors.svg",
+  "icon": "img/apps/my-accounts.svg",
   "name": "konnectors",
-  "displayName": "Konnectors",
+  "displayName": "My accounts",
   "slug": "konnectors",
   "git": "https://github.com/cozy-labs/konnectors.git",
   "comment": "community contribution",
   "description": "konnectors description",
   "package": "konnectors",
-  "color": "#e26987",
+  "color": "#ff9800",
   "author": {
     "name": "Cozy Labs",
     "url": "https://github.com/cozy-labs"
