@@ -1,0 +1,13 @@
+{
+  "icon": "img/apps/moimois.png",
+  "name": "moimois",
+  "displayName": "Moi",
+  "slug": "moimois",
+  "git": "https://github.com/jacquarg/Moimois.git",
+  "comment": "community contribution",
+  "description": "moi description",
+  "author": {
+    "name": "Jacquarg",
+    "url": "https://github.com/jacquarg"
+  }
+}
