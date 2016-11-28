@@ -1,0 +1,13 @@
+{
+  "icon": "img/apps/maif.svg",
+  "name": "mes-infos-maif",
+  "displayName": "Mes Infos Maif",
+  "slug": "mes-infos-maif",
+  "git": "https://github.com/cozy-MAIF/mes-infos-maif.git",
+  "comment": "community contribution",
+  "description": "mes-infos-maif description",
+  "author": {
+    "name": "Maif Digital Factory",
+    "url": "https://github.com/cozy-MAIF"
+  }
+}
