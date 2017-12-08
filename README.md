@@ -1,6 +1,11 @@
 [Cozy](http://cozy.io) Registry
 =============
 
+### Deprecation warning
+:warning: This repository was for the registry for the old, now deprecated, Node.js based, Cozy V2.
+
+For the brand new, Go based, Cozy V3, please use [https://github.com/cozy/cozy-apps-registry](https://github.com/cozy/cozy-apps-registry)
+
 Soon all Cozy running instances will display the list of available application
 on the Cozy Store by fetching data from this repository. If you want to add
 your own application to the Cozy App Store, just make a PR to this repository.
