@@ -3,7 +3,7 @@
   "name": "contacts",
   "displayName": "Contacts",
   "slug": "contacts",
-  "git": "https://github.com/cozy/cozy-contacts.git",
+  "git": "https://github.com/cozy/cozy-contacts-v2.git",
   "comment": "official application",
   "description": "contacts description",
   "package": "cozy-contacts",
